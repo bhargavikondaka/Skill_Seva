@@ -17,3 +17,4 @@ Local shopkeeper assistant (Skill_Seva) — full-stack example:
 cd Skill_Seva
 npm run setup     # installs server + client
 npm run dev       # runs server (3000) and client (5173)
+```
